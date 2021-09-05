@@ -31,8 +31,8 @@
 	</dependencies>
 	<distributionManagement>
 		<repository>
-		    <id>nexus</id>
-		    <url>http://54.197.176.59:8081/repository/myapp-release/</url>
+		    <id>release</id>
+                    <url>http://192.168.33.30:8081/nexus/content/repositories/release</url>
 		</repository>
   	</distributionManagement>
 	
